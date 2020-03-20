@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MagicSquare</label>
+		<id>113</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>MagicSquare.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\..\November 19 (CalculatorMethod)\CalculatorMethod\CalculatorMethod.jcp</path>
+		</project>
+		<project>
+			<path>MagicSquare.jcp</path>
+		</project>
+	</projects>
+</workspace>

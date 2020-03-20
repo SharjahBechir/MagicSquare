@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>CalculatorMethod</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>CalculatorMethod</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>..\..\November 19 (CalculatorMethod)\CalculatorMethod\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>..\..\November 19 (CalculatorMethod)\CalculatorMethod\src</path>
+				<dir>src</dir>
+			</folderitem>
+		</project>
+		<project>
+			<label>MagicSquare</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\MagicSquare.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\November 19 (CalculatorMethod)\CalculatorMethod\src\CalculatorMethod.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
